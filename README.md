@@ -46,11 +46,11 @@
 
 ### Сборка и запуск
 
-# Клонирование репозитория
+## Клонирование репозитория
 `git clone https://github.com/KrolTryCode/NexignTest`
 
-# Сборка проекта
+## Сборка проекта
 `./gradlew build`
 
-# Запуск приложения
+## Запуск приложения
 `java -jar build/libs/NexignTest-1.0-SNAPSHOT-main.jar`
