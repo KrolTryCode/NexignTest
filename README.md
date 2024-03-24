@@ -49,9 +49,6 @@
 # Клонирование репозитория
 `git clone https://github.com/KrolTryCode/NexignTest`
 
-# Переход в директорию проекта
-`cd NexignTest`
-
 # Сборка проекта
 `./gradlew build`
 
